@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 5-Minute Book Summarizer",
+  "description": "Get concise summaries of your favorite books, designed to be read in just five minutes. Enter a book title, and let Gemini AI provide you with the key insights and plot points.",
+  "requestFramePermissions": []
+}
